@@ -10,28 +10,28 @@
 .content_wrapper {
   background-color: #eff3f4;
   width: 900px;
-  margin:  0 auto;
+  margin: 0 auto;
 }
 
 .img_1 {
   float: left;
-  margin: 20px  20px 0px;
+  margin: 20px 20px 0;
 }
 
 .box1_txt {
   font-size: 18px;
   line-height: 22px;
-  padding: 20px 20px 0px;
+  padding: 20px 20px 0;
 }
 
 .img_2 {
   float: right;
-  margin: 0px 20px 0px;
+  margin: 0 20px 0;
 }
 
 .box2_txt {
   font-size: 18px;
   line-height: 22px;
-  padding: 0px 20px 20px;
+  padding: 0 20px 20px;
 }
 /* 回答はここに書いてね */

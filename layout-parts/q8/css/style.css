@@ -10,7 +10,7 @@
 
 .kotei1, .flex1, .kotei2, .flex2, .flex3, .kotei3{
   display: table-cell;
-  padding: 20px 0px;
+  padding: 20px 0;
   text-align: center;
 }
 

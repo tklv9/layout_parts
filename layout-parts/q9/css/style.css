@@ -7,7 +7,7 @@
 }
 
 .q9-grid {
-  font-size: 0px;
+  font-size: 0;
 }
 
 .q9-grid:not(:first-child) {
@@ -26,7 +26,7 @@
   line-height: 50px;
   text-align: center;
   font-size: 16px;
-  }
+}
 
 .grid12 { width: 100%; }
 

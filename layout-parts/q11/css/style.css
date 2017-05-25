@@ -2,12 +2,12 @@
 
 /* 回答はここに書いてね */
 .trans-img {
-    position: relative;
-    overflow: hidden;
-    width: 500px;
-    height: 333px;
-    margin: 0 auto;
-    cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  width: 500px;
+  height: 333px;
+  margin: 0 auto;
+  cursor: pointer;
 }
 
 .scale-img {
@@ -39,7 +39,7 @@
 
 .trans-img:hover .trans-txt-area {
   bottom: 0;
-  }
+}
 
 .loading-circle {
   margin: 0 auto;

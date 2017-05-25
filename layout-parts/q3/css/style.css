@@ -13,12 +13,12 @@
 }
 
 .table th {
-  background-color: #2244aa;
+  background-color: #24a;
   font-size: 18px;
   color: #fff;
   line-height: 26px;
   border: solid #dedede 1px;
-  padding: 10px 0px;
+  padding: 10px 0;
 }
 
 .table td {
@@ -28,7 +28,7 @@
   font-size: 16px;
   line-height: 22px;
   border: solid #dedede 1px;
-  padding: 10px 0px;
+  padding: 10px 0;
 }
 
 .table tr:nth-child(2n) {

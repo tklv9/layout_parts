@@ -24,13 +24,13 @@
 }
 
 .q10-title-line:after {
-border-top: 1px solid #ccc;
-content: "";
-flex-grow: 1;
+  border-top: 1px solid #ccc;
+  content: "";
+  flex-grow: 1;
 }
 
 .q10-title-line:after {
-margin-left: 10px;
+  margin-left: 10px;
 }
 
 .q10-form-main {
