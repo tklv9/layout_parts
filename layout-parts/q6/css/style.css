@@ -1,5 +1,185 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.button {
+  display: inline-block;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.small {
+  padding: 0 15px;
+  border-radius: 3px;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.middle {
+  padding: 0 15px;
+  border-radius: 5px;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.large {
+  padding: 0 15px;
+  border-radius: 7px;
+  font-size: 24px;
+  line-height: 38px;
+}
+
+.common {
+  background-color: #00bcd4;
+  color: #fff;
+}
+
+.error {
+  background-color: #ff4081;
+  color: #fff;
+}
+
+.disabled {
+  background-color: #e5e5e5;
+  color: #fff;
+}
+
+.shadow {
+  box-shadow: 0 1px 6px rgba(0,0,0,.12);
+  box-shadow: 0 1px 4px rgba(0,0,0,.12);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  padding: 15px;
+  line-height: 26px;
+}
 
 /* 回答はここに書いてね */

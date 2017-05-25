@@ -37,7 +37,50 @@
         ・input(type="submit")
         -->
         <!-- 回答はここに書いてね -->
-
+        <div class="q10">
+          <form class="q10-wrapper clearfix">
+            <div class="q10-title-line">Form Exercise</div>
+            <div class="q10-form-main">
+                <ul>
+                  <li class="q10-name clearfix">
+                    <p class="form-item-title">name<span style="color: #f00">*</span></p>
+                    <div class="form-item-main">
+                      <input class="q10-input" type="text" name="q10_1" required>
+                    </div>
+                  </li>
+                  <li class="q10-sex clearfix">
+                    <p class="form-item-title">Sex</p>
+                    <div class="form-item-main">
+                      <label class="q10-radio">
+                        <input class="q10-radio-btn" type="radio" name="q10_2" value="male">
+                        <span class="q10-radio-txt">male</span>
+                      </label>
+                      <label class="q10-radio">
+                        <input class="q10-radio-btn" type="radio" name="q10_2" value="female">
+                        <span class="q10-radio-txt">female</span>
+                      </label>
+                    </div>
+                  </li>
+                  <li class="q10-email clearfix">
+                  <p Class="form-item-title">Email<span style="color: #f00">*</span></p>
+                  <div class="form-item-main">
+                    <input class="q10-input" type="text" placeholder="ex) hoge@gmail.com" name="q10_3" required>
+                  </div>
+                  </li>
+                  <li class="q10-tell clearfix">
+                  <p class="form-item-title">Telephone</p>
+                  <div class="form-item-main">
+                      <input class="q10-input" type="text" placeholder="ex) 08012345678" name="q10_4">
+                  </div>
+                  </li>
+                </ul>
+                <button class="q10-btn" clearfix">submit</button>
+            </div>
+            <div class="q10-from-sub">
+              <textarea class="q10-form-txt q10-from-sub-input" type="text" placeholder="Please fill in the message..." name="sub"></textarea>
+            </div>
+          </form>
+        </div>
         <!-- 回答はここに書いてね -->
     </div>
 </div>
